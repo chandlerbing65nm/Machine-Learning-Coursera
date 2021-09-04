@@ -3,7 +3,7 @@ My notes / works from Coursera courses.
 
 ## Contents
 * [Introduction](https://github.com/chandlerbing65nm/Machine-Learning-Coursera#Introduction)
-* [Course](https://github.com/chandlerbing65nm/Machine-Learning-Coursera#Courses)
+* [Course](https://github.com/chandlerbing65nm/Machine-Learning-Coursera#Course)
 * [License](https://github.com/chandlerbing65nm/Machine-Learning-Coursera#License)
 
 ## Introduction
