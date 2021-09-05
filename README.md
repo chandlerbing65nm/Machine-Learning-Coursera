@@ -9,7 +9,14 @@ My notes / works from Coursera courses.
 ## Introduction
 This repository contains my solutions for labs and programming assignments on Coursera courses. Certain resources required by the codes may be lacking due to limitations on downloading course materials from Coursera and uploading them to GitHub. The lacking resources are mostly datasets, pre-trained models or certain weight matrices.
 
-This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. 
+
+Topics include: 
+- [x] Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks. 
+- [x] Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning. 
+- [x] Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI. 
+
+The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
 ## Course
 1. [Machine Learning](https://github.com/chandlerbing65nm/Machine-Learning-Coursera/tree/main/machine-learning-ex)
